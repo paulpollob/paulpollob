@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulpollob
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Machine Learning.
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently a Web Development
+- 💞️ I’m Learning full stack development.
 - 📫 How to reach me Email: paulpollob71@gmail.com
 - <img align="right" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
