@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpollob
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently a Web Development
+- 🌱 I’m currently a Web Developer.
 - 💞️ I’m Learning full stack development.
 - 📫 How to reach me Email: paulpollob71@gmail.com
 - <img align="right" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
